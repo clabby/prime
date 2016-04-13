@@ -1,0 +1,16 @@
+/Users/ben/Java/Prime/src/main/java/me/vexil/prime/data/CommandInformation.java
+/Users/ben/Java/Prime/src/main/java/me/vexil/prime/exception/CommandMethodInvocationException.java
+/Users/ben/Java/Prime/src/main/java/me/vexil/prime/util/PrimeLocale.java
+/Users/ben/Java/Prime/src/main/java/me/vexil/prime/util/StringUtil.java
+/Users/ben/Java/Prime/src/main/java/me/vexil/prime/handler/PrimePermissionHandler.java
+/Users/ben/Java/Prime/src/main/java/me/vexil/prime/Example.java
+/Users/ben/Java/Prime/src/main/java/me/vexil/prime/Holder.java
+/Users/ben/Java/Prime/src/main/java/me/vexil/prime/handler/PrimeExecutor.java
+/Users/ben/Java/Prime/src/main/java/me/vexil/prime/data/CommandContext.java
+/Users/ben/Java/Prime/src/main/java/me/vexil/prime/annotations/CommandPermission.java
+/Users/ben/Java/Prime/src/main/java/me/vexil/prime/annotations/ParentCommand.java
+/Users/ben/Java/Prime/src/main/java/me/vexil/prime/annotations/Command.java
+/Users/ben/Java/Prime/src/main/java/me/vexil/prime/handler/PermissionHandler.java
+/Users/ben/Java/Prime/src/main/java/me/vexil/prime/exception/CommandException.java
+/Users/ben/Java/Prime/src/main/java/me/vexil/prime/util/ReflectionUtil.java
+/Users/ben/Java/Prime/src/main/java/me/vexil/prime/PrimeManager.java
